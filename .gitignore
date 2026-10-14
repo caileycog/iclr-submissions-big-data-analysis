@@ -1,0 +1,11 @@
+# Unzipped copy of the OpenAlex data (the repository stores the .zip)
+data/openalex.json
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
