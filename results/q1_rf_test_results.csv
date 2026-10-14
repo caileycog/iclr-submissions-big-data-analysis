@@ -1,0 +1,13 @@
+Metric,Value
+AUC-ROC,0.9618
+Accuracy,0.9031
+Best maxDepth,10
+Best numTrees,100
+Train: not accepted,19438
+Train: accepted,9151
+Test: not accepted,4830
+Test: accepted,2198
+TN (not accepted predicted not accepted),4532
+FP (not accepted predicted accepted),298
+FN (accepted predicted not accepted),383
+TP (accepted predicted accepted),1815

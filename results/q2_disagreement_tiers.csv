@@ -1,0 +1,4 @@
+Tier,Score_SD_range,Papers,Mean_score_SD,Acceptance_rate_pct,Accepted_papers,Accepted_with_a_score_below_5,Share_with_a_score_below_5_pct
+Low,<= 0.866,14155,0.476,35.5,5024,40,0.8
+Medium,0.866 - 1.225,10128,1.04,34.1,3451,138,4.0
+High,> 1.225,11334,1.628,25.4,2874,1418,49.3

@@ -1,0 +1,11 @@
+Check,Value
+ICLR rows loaded,55906
+Duplicate IDs,0
+Empty decision strings (unreviewed 2026),19673
+Empty score arrays,20289
+Empty keyword arrays,2131
+Rows after cleaning (decision and scores present),35617
+OpenAlex records,2245
+OpenAlex duplicate normalised titles,123
+OpenAlex null citation percentile,1023
+OpenAlex publication years,1988-2025

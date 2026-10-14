@@ -1,0 +1,4 @@
+Group,Papers,Slope_per_year,Intercept,Test_R2
+All papers,35617,0.0128,-20.8712,0.0006
+Accepted papers,11349,-0.0003,7.1638,-0.0001
+Rejected/withdrawn papers,24268,0.0321,-60.4755,0.0059

@@ -1,0 +1,14 @@
+ID,Title,Year,Mean_score,Cited_by_count
+S19eAF9ee,Structured Sequence Modeling with Graph Convolutional Recurrent Networks,2017,4.0,763
+HkmaTz-0W,Visualizing the Loss Landscape of Neural Nets,2018,4.667,514
+H1bM1fZCW,GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks,2018,4.667,313
+HJWGdbbCW,Reinforcement and Imitation Learning for Diverse Visuomotor Skills,2018,4.667,209
+ByexElSYDr,Fair Resource Allocation in Federated Learning,2020,4.0,132
+Hy-lXyDWG,Incremental Learning in Deep Convolutional Neural Networks Using Partial Network Sharing,2018,3.333,128
+HJeq43AqF7,Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Auto-Encoders,2019,4.333,111
+S1xFm6VKDH,Meta Module Network for Compositional Visual Reasoning,2020,3.0,60
+H1emfT4twB,Few-shot Text Classification with Distributional Signatures,2020,3.333,54
+B1esx6EYvr,"A critical analysis of self-supervision, or what we can learn from a single image",2020,4.333,51
+BkPrDFgR-,Piecewise Linear Neural Networks verification: A comparative study,2018,4.667,49
+HylvlaVtwr,Learning to Sit: Synthesizing Human-Chair Interactions via Hierarchical Control,2020,2.333,20
+Byg5flHFDr,EvoNet: A Neural Network for Predicting the Evolution of Dynamic Graphs,2020,2.333,13

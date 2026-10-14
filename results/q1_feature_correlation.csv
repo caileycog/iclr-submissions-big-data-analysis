@@ -1,0 +1,6 @@
+,mean_score,min_score,max_score,num_reviewers,std_score
+mean_score,1.0,0.85,0.839,0.05,-0.045
+min_score,0.85,1.0,0.545,-0.044,-0.494
+max_score,0.839,0.545,1.0,0.137,0.438
+num_reviewers,0.05,-0.044,0.137,1.0,0.118
+std_score,-0.045,-0.494,0.438,0.118,1.0

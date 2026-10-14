@@ -1,0 +1,11 @@
+Keyword,Year,Period,Papers_with_decision,Acceptance_rate_pct
+large reasoning models,2025,Pre-spike,1,0.0
+large reasoning models,2026,Spike year,1,0.0
+llm,2023,Pre-spike,4,50.0
+llm,2024,Spike year,76,25.0
+llm,2025,Post-spike,350,29.7
+llm,2026,Post-spike,6,0.0
+spatial reasoning,2024,Pre-spike,1,0.0
+spatial reasoning,2025,Pre-spike,3,33.3
+test-time scaling,2025,Pre-spike,3,66.7
+test-time scaling,2026,Spike year,1,0.0
