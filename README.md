@@ -208,3 +208,5 @@ The notebook opens directly on GitHub, with every output already saved, so you c
 **More projects:**
 - [Psoriasis Biomarker Discovery](https://github.com/caileycog/psoriasis-biomarker-discovery): R, limma, nested CV, SHAP
 - [Airline Passenger Satisfaction](https://github.com/caileycog/airline-passenger-satisfaction): KNIME, logistic regression vs gradient boosted trees
+- [Who Voted Leave?](https://github.com/caileycog/eu-referendum-voting-demographics): SPSS, chi-square tests, logistic regression
+- [Does Metadata Make a Hit?](https://github.com/caileycog/song-popularity-metadata-visualisation): R, ggplot2, accessible data visualisation
