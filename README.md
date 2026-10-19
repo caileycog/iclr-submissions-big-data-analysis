@@ -203,7 +203,7 @@ The notebook opens directly on GitHub, with every output already saved, so you c
 ## Contact
 
 **Cailey Coghlan**, MSc Data Science, University of Sheffield
-[LinkedIn](https://www.linkedin.com/in/cailey-coghlan-10a8a8173/) · [Email](mailto:caileycog@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/caileycoghlan/) · [Email](mailto:caileycog@outlook.com)
 
 **More projects:**
 - [Psoriasis Biomarker Discovery](https://github.com/caileycog/psoriasis-biomarker-discovery): R, limma, nested CV, SHAP
